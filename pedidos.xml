@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE pedidos SYSTEM "pedidos.dtd">
+
+<pedidos>
+    <pedido n_serie="A4674">
+        <cantidad>37</cantidad>
+        <peso>37.5Kg</peso>
+    </pedido>
+    <pedido n_serie="E5432">
+        <cantidad>
+            57
+        </cantidad>
+    </pedido>
+</pedidos>
